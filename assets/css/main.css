@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'SFProDisplay';
+    src: url('../fonts/SFProDisplay.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TimesNewRoman';
+    src: url('../fonts/TimesNewRoman.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html,
+body,
+#__nuxt,
+#__layout {
+    height: auto;
+}
+
+a {
+    color: #FF0142;
+}
+
+body {
+    font-family: 'SFProDisplay', 'sans-serif';
+    color: #2A3246;
+}
