@@ -22,7 +22,7 @@
     "cssnano": "^4.1.10",
     "postcss-import": "^12.0.1",
     "postcss-nested": "^4.1.2",
-    "pug": "^2.0.3",
+    "pug": "^3.0.1",
     "pug-plain-loader": "^1.0.0"
   }
 }
